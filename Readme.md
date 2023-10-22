@@ -22,13 +22,13 @@ Git  is a distributed version control system[9] that tracks changes in any set o
 
 ##### Books
 
-[Pro Git book, written by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
+[Pro Git book, written by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2 "Pro Git book, written by Scott Chacon and Ben Straub")
 
-[A Hacker’s Guide to Git by Joseph Wynn](https://wildlyinaccurate.com/a-hackers-guide-to-git/#git-stash)
+[A Hacker’s Guide to Git by Joseph Wynn](https://wildlyinaccurate.com/a-hackers-guide-to-git/#git-stash "A Hacker’s Guide to Git by Joseph Wynn")
 
-[Conversational Git by Alan Hohn](https://alanhohn.com/extras/conversational-git/)
+[Conversational Git by Alan Hohn](https://alanhohn.com/extras/conversational-git/ "Conversational Git by Alan Hohn")
 
-[Git In the Trenches by Peter Savage](https://cbx33.github.io/gitt/)
+[Git In the Trenches by Peter Savage](https://cbx33.github.io/gitt/ "Git In the Trenches by Peter Savage")
 
 [Getting Git right](https://www.atlassian.com/git)
 
@@ -49,3 +49,19 @@ Git  is a distributed version control system[9] that tracks changes in any set o
 
 
 ## Linux
+
+##### Books
+
+[The Ultimate Linux Newbie Guide](/)
+
+##### Videos
+
+[The “Start From Scratch” Linux Course](https://www.netacad.com/courses/os-it/ndg-linux-unhatched?ref=itsfoss.com "The “Start From Scratch” Linux Course")
+
+[LinuxFoundationX: Introduction to Linux](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux?ref=itsfoss.com "LinuxFoundationX: Introduction to Linux")
+
+[RedHat: Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/learn/linux/red-hat-fundamentals-of-red-hat-enterprise-linux?ref=itsfoss.com "RedHat: Fundamentals of Red Hat Enterprise Linux")
+
+##### Interactive
+
+[Linux Journey](https://linuxjourney.com/ "Linux Journey")
