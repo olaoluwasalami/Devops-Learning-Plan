@@ -6,4 +6,4 @@ Resources include Books, Videos and Articles
 
 ![DevOps roadmap](devops-guide.png)
 
-[GIT](https://github.com/olaoluwasalami/Road-to-Devops/git)
+[GIT](/git)
