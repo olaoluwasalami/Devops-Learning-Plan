@@ -50,6 +50,8 @@ Git  is a distributed version control system[9] that tracks changes in any set o
 
 ## Linux
 
+Linux is an operating system. In fact, one of the most popular platforms on the planet, Android, is powered by the Linux operating system. An operating system is software that manages all of the hardware resources associated with your desktop or laptop. To put it simply, the operating system manages the communication between your software and your hardware. Without the operating system (OS), the software wouldn’t function.
+
 ##### Books
 
 [The Ultimate Linux Newbie Guide](/The-Ultimate-Linux-Newbie-Guide-eBook-Edition.pdf "The Ultimate Linux Newbie Guide")
