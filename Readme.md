@@ -2,7 +2,7 @@
 
 This is a step-by-step guide on how to become a DevOps engineer, with links to free resources.
 
-> Resources include Books, Videos, Articles and Interactive Sessions==
+> Resources include Books, Videos, Articles and Interactive Sessions
 
 _Don't forget to leave a star on our repository! :star:_
 
