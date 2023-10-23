@@ -18,6 +18,7 @@ _Don't forget to leave a star on our repository! :star:_
 #### 3. [Learn a Programming Language](#Learn-a-Programming-Language)
 
 
+
 ## Git
 
 Git  is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different computers).
@@ -91,3 +92,73 @@ Linux is an operating system. In fact, one of the most popular platforms on the 
 [OverTheWire bandit](https://overthewire.org/wargames/bandit/bandit17.html "OverTheWire bandit")
 
 ## Learn a Programming Language
+
+DevOps promotes teamwork, communication, and continual improvement. As a result, DevOps engineers must master specialized programming and scripting languages in order to expedite enhanced product releases and deliver them more frequently.
+
+This means that a skilled DevOps engineer must be fluent in numerous programming or scripting languages. Furthermore, the more coding languages you know, the better you'll be at optimizing procedures and efficiently constructing software.
+
+We have opted for Python and Go as our preferred programming languages for this purpose.
+
+##### Books
+
+Python
+
+[Python101](https://python101.pythonlibrary.org/ "Python101")
+
+[Slither Into Python + Slither Into Data Structures and Algorithms](https://www.slitherintopython.com/ "Slither Into Python + Slither Into Data Structures and Algorithms")
+
+[The Python Coding Book](https://thepythoncodingbook.com/ "The Python Coding Book")
+
+Go
+
+[Go Bootcamp by Matt Aimonetti](/GoBootcamp.pdf "Go Bootcamp by Matt Aimonetti")
+
+[An Introduction to Programming in Go by Caleb Doxsey](https://www.golang-book.com/ "An Introduction to Programming in Go by Caleb Doxsey")
+
+[Go for DevOps By John Doak , David Justice](https://www.packtpub.com/product/go-for-devops/9781801818896 "Go for DevOps By John Doak , David Justice")
+
+##### Videos
+
+Python
+
+[Python Tutorial - Python Full Course for Beginners by Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc "Python Tutorial - Python Full Course for Beginners by Programming with Mosh (Youtube)")
+
+[Python for Beginners – Full Course [Programming Tutorial]](https://www.youtube.com/watch?v=eWRfhZUzrAc "Python for Beginners – Full Course [Programming Tutorial]")
+
+
+Go
+
+[Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU "Learn Go Programming - Golang Tutorial for Beginners")
+
+[Go Programming – Golang Course with Bonus Projects](https://www.youtube.com/watch?v=un6ZyFkqFKo "Go Programming – Golang Course with Bonus Projects")
+
+[Programming with Google Go Specialization](https://www.coursera.org/specializations/google-golang?irclickid=VE2T4fw%3AmxyPW7sy9HXbxzWgUkFTZa1dmxUy2M0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c "Programming with Google Go Specialization")
+
+[Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U "Go / Golang Crash Course")
+
+[Learn Go](https://www.codecademy.com/learn/learn-go?periods=year&plan_id=proGoldAnnualV2&utm_source=pepperjam&utm_medium=affiliate&utm_term=225746&clickId=4536129920&pj_creativeid=8-12462&pj_publisherid=225746)
+
+##### Interactive Tutorial
+
+Python
+
+[Learn Python](https://www.learnpython.org/ "Learn Python")
+
+[Learn Python with Olof Paulson](https://scrimba.com/learn/python "Learn Python with Olof Paulson")
+
+[Python Tutorial by W3schools](https://www.w3schools.com/python/ "Python Tutorial by W3schools")
+
+[Google's Python Class](https://developers.google.com/edu/python "Google's Python Class")
+
+Go
+
+[A Tour of Go](https://go.dev/tour/welcome/1 "A Tour of Go")
+
+[https://www.learn-golang.org/](https://www.learn-golang.org/ "https://www.learn-golang.org/")
+
+
+
+
+
+
+
