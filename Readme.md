@@ -7,13 +7,15 @@ This is a step-by-step guide on how to become a DevOps engineer, with links to f
 _Don't forget to leave a star on our repository! :star:_
 
 
-![DevOps roadmap](devops-guide.png "Devops RoadMap")
+![DevOps roadmap](devops-guide.jpg "Devops RoadMap")
 
 ## Navigation
 
-#### 1. [Git](#git)
+#### 1. [Version Control - Git](#git)
 
-#### 2. [Linux](#linux)
+#### 2. [Linux and Bash Scripting](#linux)
+
+#### 3. [Learn a Programming Language](#Learn-a-Programming-Language)
 
 
 ## Git
@@ -43,7 +45,7 @@ Git  is a distributed version control system that tracks changes in any set of c
 [Git Tutorial By GitKraken](https://www.gitkraken.com/learn/git/tutorials)
 
 
-#### Interactive
+#### Interactive Tutorial
 
 [Interactive Guide to Git Branching](https://learngitbranching.js.org/)
 
@@ -60,6 +62,10 @@ Linux is an operating system. In fact, one of the most popular platforms on the 
 
 [Linux Fundamentals](/linuxfundamentals.pdf "Linux Fundamentals")
 
+[Introduction to Bash Scripting by Bobby Iliev](https://github.com/bobbyiliev/introduction-to-bash-scripting "Introduction to Bash Scripting by Bobby Iliev")
+
+[Bash Notes for Professionals](/BashNotesForProfessionals.pdf "Bash Notes for Professionals")
+
 ##### Videos
 
 [The “Start From Scratch” Linux Course](https://www.netacad.com/courses/os-it/ndg-linux-unhatched?ref=itsfoss.com "The “Start From Scratch” Linux Course")
@@ -68,7 +74,11 @@ Linux is an operating system. In fact, one of the most popular platforms on the 
 
 [RedHat: Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/learn/linux/red-hat-fundamentals-of-red-hat-enterprise-linux?ref=itsfoss.com "RedHat: Fundamentals of Red Hat Enterprise Linux")
 
-##### Interactive
+[Bash Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=tK9Oc6AEnR4 "Bash Scripting Tutorial for Beginners")
+
+[Advanced Bash Scripting Tutorial](https://www.youtube.com/watch?v=emhouufDnB4 "Advanced Bash Scripting Tutorial")
+
+##### Interactive Tutorial
 
 [Linux Journey](https://linuxjourney.com/ "Linux Journey")
 
@@ -77,3 +87,7 @@ Linux is an operating system. In fact, one of the most popular platforms on the 
 [Webminal](https://www.webminal.org/ "Webminal")
 
 [https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html "https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html")
+
+[OverTheWire bandit](https://overthewire.org/wargames/bandit/bandit17.html "OverTheWire bandit")
+
+
