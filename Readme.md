@@ -109,7 +109,7 @@ Python :snake:
 
 [The Python Coding Book](https://thepythoncodingbook.com/ "The Python Coding Book")
 
-Go
+Go <img src="/golang.png" alt="drawing" width="30" height="30"/>
 
 [Go Bootcamp by Matt Aimonetti](/GoBootcamp.pdf "Go Bootcamp by Matt Aimonetti")
 
