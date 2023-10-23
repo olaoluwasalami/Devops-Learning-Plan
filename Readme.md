@@ -23,7 +23,7 @@ _Don't forget to leave a star on our repository! :star:_
 
 Git  is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different computers).
 
-##### Books
+#### Books
 
 [Pro Git book, written by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2 "Pro Git book, written by Scott Chacon and Ben Straub")
 
@@ -35,7 +35,7 @@ Git  is a distributed version control system that tracks changes in any set of c
 
 [Getting Git right](https://www.atlassian.com/git)
 
-##### Videos
+#### Videos
 
 [Version Control with Git by Atlassian](https://www.coursera.org/learn/version-control-with-git?irclickid=VE2T4fw%3AmxyPW7sy9HXbxzWgUkFTP21JmxUy2M0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c)
 
@@ -55,7 +55,7 @@ Git  is a distributed version control system that tracks changes in any set of c
 
 Linux is an operating system. In fact, one of the most popular platforms on the planet, Android, is powered by the Linux operating system. An operating system is software that manages all of the hardware resources associated with your desktop or laptop. To put it simply, the operating system manages the communication between your software and your hardware. Without the operating system (OS), the software wouldn’t function.
 
-##### Books
+#### Books
 
 [The Ultimate Linux Newbie Guide](/The-Ultimate-Linux-Newbie-Guide-eBook-Edition.pdf "The Ultimate Linux Newbie Guide")
 
@@ -67,7 +67,7 @@ Linux is an operating system. In fact, one of the most popular platforms on the 
 
 [Bash Notes for Professionals](/BashNotesForProfessionals.pdf "Bash Notes for Professionals")
 
-##### Videos
+#### Videos
 
 [The “Start From Scratch” Linux Course](https://www.netacad.com/courses/os-it/ndg-linux-unhatched?ref=itsfoss.com "The “Start From Scratch” Linux Course")
 
@@ -79,7 +79,7 @@ Linux is an operating system. In fact, one of the most popular platforms on the 
 
 [Advanced Bash Scripting Tutorial](https://www.youtube.com/watch?v=emhouufDnB4 "Advanced Bash Scripting Tutorial")
 
-##### Interactive Tutorial
+#### Interactive Tutorial
 
 [Linux Journey](https://linuxjourney.com/ "Linux Journey")
 
@@ -99,9 +99,9 @@ This means that a skilled DevOps engineer must be fluent in numerous programming
 
 We have opted for Python and Go as our preferred programming languages for this purpose.
 
-##### Books
+#### Books :book:
 
-Python
+Python :snake:
 
 [Python101](https://python101.pythonlibrary.org/ "Python101")
 
@@ -117,7 +117,7 @@ Go
 
 [Go for DevOps By John Doak , David Justice](https://www.packtpub.com/product/go-for-devops/9781801818896 "Go for DevOps By John Doak , David Justice")
 
-##### Videos
+#### Videos :computer:
 
 Python
 
@@ -138,7 +138,7 @@ Go
 
 [Learn Go](https://www.codecademy.com/learn/learn-go?periods=year&plan_id=proGoldAnnualV2&utm_source=pepperjam&utm_medium=affiliate&utm_term=225746&clickId=4536129920&pj_creativeid=8-12462&pj_publisherid=225746)
 
-##### Interactive Tutorial
+#### Interactive Tutorial :play:
 
 Python
 
