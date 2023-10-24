@@ -187,8 +187,36 @@ Learning a cloud provider like AWS is essential for aspiring DevOps engineers, a
 
 [Cloud Quest: Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner "Cloud Quest: Cloud Practitioner")
 
-## Networking
+[AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/ "AWS Builder Labs")
 
+## Networking and Security
+
+#### Books :book:
+
+[What is CIDR?](https://aws.amazon.com/what-is/cidr/#:~:text=A%20CIDR%20block%20is%20a,regional%20internet%20registries%20(RIR) "What is CIDR?")
+
+[Networking for DevOps – a Complete Guide](https://yourdevopsmentor.com/blog/networking-for-devops-a-complete-guide/ "Networking for DevOps – a Complete Guide")
+
+[Hands-On Security in DevOps](https://www.packtpub.com/product/hands-on-security-in-devops/9781788995504 "Hands-On Security in DevOps")
+
+[Networking for Dummies](https://edu.anarcho-copy.org/TCP%20IP%20-%20Network/Networking%20For%20Dummies.pdf "Networking for Dummies")
+
+#### Videos :computer:
+
+[Intro to DevOps Bootcamp - Networking and Security](https://www.youtube.com/watch?v=PZOPz1jabfg "Intro to DevOps Bootcamp - Networking and Security")
+
+[Essential Computer Networking & Security for Cloud](https://www.youtube.com/watch?v=x75JpALvKgY "Essential Computer Networking & Security for Cloud")
+
+#### Interactive Tutorial :play:
+
+
+## Containers
+
+#### Books :book:
+
+#### Videos :computer:
+
+#### Interactive Tutorial :play:
 
 
 ## Licence
