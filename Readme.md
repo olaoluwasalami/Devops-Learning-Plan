@@ -214,9 +214,17 @@ Learning a cloud provider like AWS is essential for aspiring DevOps engineers, a
 
 #### Books :book:
 
+[The Docker Handbook – Learn Docker for Beginners](https://www.freecodecamp.org/news/the-docker-handbook/ "The Docker Handbook – Learn Docker for Beginners")
+
+[Docker Curriculum](https://docker-curriculum.com/ "Docker Curriculum")
+
 #### Videos :computer:
 
+[Docker Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=pg19Z8LL06w)
+
 #### Interactive Tutorial :play:
+
+[Play with Docker](https://labs.play-with-docker.com/)
 
 
 ## Licence
