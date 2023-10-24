@@ -19,15 +19,17 @@ _Don't forget to leave a star on our repository! :star:_
 
 #### 4. [Cloud](#cloud)
 
-#### 5. [Networking and Security](#Networking-and-Security)
+#### 5. [Infrastructure As Code](Infrastructure-As-Code)
+
+#### 6. [Networking and Security](#Networking-and-Security)
 
 #### 7. [Containers](#containers)
 
 #### 8. [Container orchestration](Container-orchestration)
 
-#### 7. [CI/CD](#CI/CD)
+#### 9. [CI/CD](#CI/CD)
 
-#### 8. [Infrastructure As Code](Infrastructure-As-Code)
+
 
 
 ## Linux
@@ -187,6 +189,15 @@ Learning a cloud provider like AWS is essential for aspiring DevOps engineers, a
 
 [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/ "AWS Builder Labs")
 
+
+## Infrastructure As Code
+
+#### Books :book:
+
+#### Videos :computer:
+
+#### Interactive Tutorial :play:
+
 ## Networking and Security
 
 #### Books :book:
@@ -240,6 +251,13 @@ Learning a cloud provider like AWS is essential for aspiring DevOps engineers, a
 
 #### Interactive Tutorial :play:
 
+## CI/CD
+
+#### Books :book:
+
+#### Videos :computer:
+
+#### Interactive Tutorial :play:
 
 ## Licence
 
