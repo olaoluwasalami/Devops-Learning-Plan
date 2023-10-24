@@ -224,6 +224,22 @@ Learning a cloud provider like AWS is essential for aspiring DevOps engineers, a
 
 [Play with Docker](https://labs.play-with-docker.com/)
 
+## Container orchestration
+
+#### Books :book:
+
+[Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/ "Learn Kubernetes Basics")
+
+#### Videos :computer:
+
+[Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do "Kubernetes Tutorial for Beginners")
+
+[Docker Containers and Kubernetes Fundamentals ](https://www.youtube.com/watch?v=kTp5xUtcalw "Docker Containers and Kubernetes Fundamentals ")
+
+[kubernetes fundamentals](https://kubebyexample.com/learning-paths/kubernetes-fundamentals/what-kubernetes-3-minutes "kubernetes fundamentals")
+
+#### Interactive Tutorial :play:
+
 
 ## Licence
 
