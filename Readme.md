@@ -17,6 +17,18 @@ _Don't forget to leave a star on our repository! :star:_
 
 #### 3. [Learn a Programming Language](#Learn-a-Programming-Language)
 
+#### 4. [Cloud](#cloud)
+
+#### 5. [Networking and Security](#Networking-and-Security)
+
+#### 7. [Containers](#containers)
+
+#### 8. [Container orchestration](Container-orchestration)
+
+#### 7. [CI/CD](#CI/CD)
+
+#### 8. [Infrastructure As Code](Infrastructure-As-Code)
+
 
 
 ## Git
@@ -126,7 +138,7 @@ Python
 [Python for Beginners – Full Course [Programming Tutorial]](https://www.youtube.com/watch?v=eWRfhZUzrAc "Python for Beginners – Full Course [Programming Tutorial]")
 
 
-Go
+Go <img src="/golang.png" alt="drawing" width="30" height="30"/>
 
 [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU "Learn Go Programming - Golang Tutorial for Beginners")
 
@@ -150,12 +162,32 @@ Python
 
 [Google's Python Class](https://developers.google.com/edu/python "Google's Python Class")
 
-Go
+Go <img src="/golang.png" alt="drawing" width="30" height="30"/>
 
 [A Tour of Go](https://go.dev/tour/welcome/1 "A Tour of Go")
 
 [https://www.learn-golang.org/](https://www.learn-golang.org/ "https://www.learn-golang.org/")
 
+
+## Learn a Cloud Provider
+
+Learning a cloud provider like AWS is essential for aspiring DevOps engineers, as it enables them to leverage cloud services for scalability, automation, and efficient infrastructure management. AWS offers a wide range of tools and services that align perfectly with DevOps principles, allowing professionals to streamline software development and deployment processes. By mastering AWS, DevOps engineers can harness the power of the cloud to build resilient, agile, and highly available systems, crucial for modern software development and deployment practices.
+
+
+#### Books :book:
+
+
+#### Videos :computer:
+
+[AWS Certified Cloud Practitioner 2023](https://www.youtube.com/watch?v=Uq5w1lnKzlk "AWS Certified Cloud Practitioner 2023")
+
+[AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials "AWS Cloud Practitioner Essentials")
+
+#### Interactive Tutorial :play:
+
+[Cloud Quest: Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner "Cloud Quest: Cloud Practitioner")
+
+## Networking
 
 
 
