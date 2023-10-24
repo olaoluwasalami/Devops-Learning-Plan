@@ -192,12 +192,28 @@ Learning a cloud provider like AWS is essential for aspiring DevOps engineers, a
 
 ## Infrastructure As Code
 
+Infrastructure as code (IaC) with Terraform is pivotal for cloud computing because it enables automated, version-controlled provisioning of cloud resources. Learning Terraform is crucial as it fosters agility, scalability, and consistency, empowering teams to swiftly deploy, manage, and modify infrastructure with code, reducing human errors and ensuring reproducibility in dynamic cloud environments. This proficiency is a linchpin for modern cloud operations, enhancing efficiency and resource utilization, making it an essential skill for cloud practitioners.
+
 #### Books :book:
+
+[Terraform: Up & Running By Yevgeniy Brikman](https://www.terraformupandrunning.com "Terraform: Up & Running By Yevgeniy Brikman")
+
+[Harshicorp Terraform](https://developer.hashicorp.com/terraform/tutorials "Harshicorp Terraform")
+
+[Terraform Beginner’s Guide: Everything You Should Know](https://k21academy.com/terraform-iac/terraform-beginners-guide/ "Terraform Beginner’s Guide: Everything You Should Know")
+
+[Terraform Course Intro - SkillMix](https://skillmix.io/terraform/terraform-course-intro/)
+
 
 #### Videos :computer:
 
+[Terraform Course - Automate your AWS cloud infrastructure](https://www.youtube.com/watch?v=SLB_c_ayRMo "Terraform Course - Automate your AWS cloud infrastructure")
+
+[Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4 "Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)")
+
 #### Interactive Tutorial :play:
 
+[DevOps School - Terraform Labs](https://www.devopsschool.com/tutorial/terraform/lab/)
 ## Networking and Security
 
 #### Books :book:
@@ -250,6 +266,8 @@ Learning a cloud provider like AWS is essential for aspiring DevOps engineers, a
 [kubernetes fundamentals](https://kubebyexample.com/learning-paths/kubernetes-fundamentals/what-kubernetes-3-minutes "kubernetes fundamentals")
 
 #### Interactive Tutorial :play:
+
+## [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way "Kubernetes The Hard Way")
 
 ## CI/CD
 
