@@ -36,7 +36,7 @@ _Don't forget to leave a star on our repository! :star:_
 
 Linux is an operating system. In fact, one of the most popular platforms on the planet, Android, is powered by the Linux operating system. An operating system is software that manages all of the hardware resources associated with your desktop or laptop. To put it simply, the operating system manages the communication between your software and your hardware. Without the operating system (OS), the software wouldn’t function.
 
-#### Books
+#### Books :book:
 
 [The Ultimate Linux Newbie Guide](/The-Ultimate-Linux-Newbie-Guide-eBook-Edition.pdf "The Ultimate Linux Newbie Guide")
 
@@ -48,7 +48,7 @@ Linux is an operating system. In fact, one of the most popular platforms on the 
 
 [Bash Notes for Professionals](/BashNotesForProfessionals.pdf "Bash Notes for Professionals")
 
-#### Videos
+#### Videos ▶️
 
 [The “Start From Scratch” Linux Course](https://www.netacad.com/courses/os-it/ndg-linux-unhatched?ref=itsfoss.com "The “Start From Scratch” Linux Course")
 
@@ -60,7 +60,7 @@ Linux is an operating system. In fact, one of the most popular platforms on the 
 
 [Advanced Bash Scripting Tutorial](https://www.youtube.com/watch?v=emhouufDnB4 "Advanced Bash Scripting Tutorial")
 
-#### Interactive Tutorial
+#### Interactive Tutorial :computer:
 
 [Linux Journey](https://linuxjourney.com/ "Linux Journey")
 
@@ -76,7 +76,7 @@ Linux is an operating system. In fact, one of the most popular platforms on the 
 
 Git  is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different computers).
 
-#### Books
+#### Books :book:
 
 [Pro Git book, written by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2 "Pro Git book, written by Scott Chacon and Ben Straub")
 
@@ -88,7 +88,7 @@ Git  is a distributed version control system that tracks changes in any set of c
 
 [Getting Git right](https://www.atlassian.com/git)
 
-#### Videos
+#### Videos ▶️
 
 [Version Control with Git by Atlassian](https://www.coursera.org/learn/version-control-with-git?irclickid=VE2T4fw%3AmxyPW7sy9HXbxzWgUkFTP21JmxUy2M0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3294490&utm_content=b2c)
 
@@ -99,7 +99,7 @@ Git  is a distributed version control system that tracks changes in any set of c
 [Git Tutorial By GitKraken](https://www.gitkraken.com/learn/git/tutorials)
 
 
-#### Interactive Tutorial
+#### Interactive Tutorial :computer:
 
 [Interactive Guide to Git Branching](https://learngitbranching.js.org/)
 
@@ -129,7 +129,7 @@ Go <img src="/golang.png" alt="drawing" width="30" height="30"/>
 
 [Go for DevOps By John Doak , David Justice](https://www.packtpub.com/product/go-for-devops/9781801818896 "Go for DevOps By John Doak , David Justice")
 
-#### Videos :computer:
+#### Videos ▶️
 
 Python
 
@@ -150,7 +150,7 @@ Go <img src="/golang.png" alt="drawing" width="30" height="30"/>
 
 [Learn Go](https://www.codecademy.com/learn/learn-go?periods=year&plan_id=proGoldAnnualV2&utm_source=pepperjam&utm_medium=affiliate&utm_term=225746&clickId=4536129920&pj_creativeid=8-12462&pj_publisherid=225746)
 
-#### Interactive Tutorial :play:
+#### Interactive Tutorial  :computer:
 
 Python
 
@@ -177,13 +177,13 @@ Learning a cloud provider like AWS is essential for aspiring DevOps engineers, a
 #### Books :book:
 
 
-#### Videos :computer:
+#### Videos ▶️
 
 [AWS Certified Cloud Practitioner 2023](https://www.youtube.com/watch?v=Uq5w1lnKzlk "AWS Certified Cloud Practitioner 2023")
 
 [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials "AWS Cloud Practitioner Essentials")
 
-#### Interactive Tutorial :play:
+#### Interactive Tutorial  :computer:
 
 [Cloud Quest: Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner "Cloud Quest: Cloud Practitioner")
 
@@ -205,13 +205,13 @@ Infrastructure as code (IaC) with Terraform is pivotal for cloud computing becau
 [Terraform Course Intro - SkillMix](https://skillmix.io/terraform/terraform-course-intro/)
 
 
-#### Videos :computer:
+#### Videos ▶️
 
 [Terraform Course - Automate your AWS cloud infrastructure](https://www.youtube.com/watch?v=SLB_c_ayRMo "Terraform Course - Automate your AWS cloud infrastructure")
 
 [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4 "Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)")
 
-#### Interactive Tutorial :play:
+#### Interactive Tutorial  :computer:
 
 [DevOps School - Terraform Labs](https://www.devopsschool.com/tutorial/terraform/lab/)
 ## Networking and Security
@@ -226,13 +226,13 @@ Infrastructure as code (IaC) with Terraform is pivotal for cloud computing becau
 
 [Networking for Dummies](https://edu.anarcho-copy.org/TCP%20IP%20-%20Network/Networking%20For%20Dummies.pdf "Networking for Dummies")
 
-#### Videos :computer:
+#### Videos ▶️
 
 [Intro to DevOps Bootcamp - Networking and Security](https://www.youtube.com/watch?v=PZOPz1jabfg "Intro to DevOps Bootcamp - Networking and Security")
 
 [Essential Computer Networking & Security for Cloud](https://www.youtube.com/watch?v=x75JpALvKgY "Essential Computer Networking & Security for Cloud")
 
-#### Interactive Tutorial :play:
+#### Interactive Tutorial  :computer:
 
 
 ## Containers
@@ -243,11 +243,11 @@ Infrastructure as code (IaC) with Terraform is pivotal for cloud computing becau
 
 [Docker Curriculum](https://docker-curriculum.com/ "Docker Curriculum")
 
-#### Videos :computer:
+#### Videos ▶️
 
 [Docker Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=pg19Z8LL06w)
 
-#### Interactive Tutorial :play:
+#### Interactive Tutorial :computer:
 
 [Play with Docker](https://labs.play-with-docker.com/)
 
@@ -257,7 +257,7 @@ Infrastructure as code (IaC) with Terraform is pivotal for cloud computing becau
 
 [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/ "Learn Kubernetes Basics")
 
-#### Videos :computer:
+#### Videos ▶️
 
 [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do "Kubernetes Tutorial for Beginners")
 
@@ -273,9 +273,9 @@ Infrastructure as code (IaC) with Terraform is pivotal for cloud computing becau
 
 #### Books :book:
 
-#### Videos :computer:
+#### Videos ▶️
 
-#### Interactive Tutorial :play:
+#### Interactive Tutorial  :computer:
 
 ## Licence
 
