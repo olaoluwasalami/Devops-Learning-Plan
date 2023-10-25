@@ -267,7 +267,7 @@ Infrastructure as code (IaC) with Terraform is pivotal for cloud computing becau
 
 #### Interactive Tutorial :play:
 
-## [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way "Kubernetes The Hard Way")
+#### [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way "Kubernetes The Hard Way")
 
 ## CI/CD
 
